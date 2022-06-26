@@ -112,7 +112,7 @@ nav {
 .promo {
   padding: 200px 0 185px 0;
   min-height: 800px;
-  background: url("/src/img/bg/uber_bg.png") center center/cover no-repeat;
+  background: url("../img/bg/uber_bg.png") center center/cover no-repeat;
 }
 .promo .promo_header {
   font-weight: 900;
@@ -291,22 +291,22 @@ nav {
   margin-bottom: 19px;
 }
 .mobile_item_1 {
-  background: url(/src/img/cards/card_1.png);
+  background: url(../img/cards/card_1.png);
 }
 .mobile_item_2 {
-  background: url(/src/img/cards/card_2.png);
+  background: url(../img/cards/card_2.png);
 }
 .mobile_item_3 {
-  background: url(/src/img/cards/card_3.png);
+  background: url(../img/cards/card_3.png);
 }
 .mobile_item_4 {
-  background: url(/src/img/cards/card_4.png);
+  background: url(../img/cards/card_4.png);
 }
 .mobile_item_5 {
-  background: url(/src/img/cards/card_5.png);
+  background: url(../img/cards/card_5.png);
 }
 .mobile_item_6 {
-  background: url(/src/img/cards/card_6.png);
+  background: url(../img/cards/card_6.png);
 }
 .mobile_item_subtitle {
   font-weight: 400;
@@ -363,7 +363,7 @@ nav {
 
 .possibilities {
   position: relative;
-  background: url(/src/img/bg/possibilities_bg.png) center center/cover no-repeat;
+  background: url(../img/bg/possibilities_bg.png) center center/cover no-repeat;
   min-height: 898px;
   padding: 59px 0 140px 0;
 }
